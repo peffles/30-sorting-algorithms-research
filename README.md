@@ -4,13 +4,12 @@
 ## Submission Instructions
 * Work in a fork of this repository
 * Work in a branch on your fork
-* Write all of your code in a directory named `lab-` + `<your name>` **e.g.** `lab-susan`
 * Open a pull request to this repository
 * Submit on canvas a question and observation, how long you spent, and a link to your pull request
 
 ## Feature Tasks  
 ### Sorting Method
-Research and implement one of the following Sorting Methods:
+Research and implement the following Sorting Methods:
 * [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
 * [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
 * [Selection Sort](https://en.wikipedia.org/wiki/Selection_sort)
